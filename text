@@ -1,0 +1,26 @@
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed obcaecati autem labore porro ullam deserunt expedita dolore, ad voluptas maiores consequuntur culpa ea, officiis facere doloribus! In animi accusantium modi placeat, dolore, nisi corporis asperiores nobis dignissimos assumenda architecto aperiam?</p>
+                <div class="title-container">
+
+                    <div class="titles">
+                        <i class='bx bxs-group'></i>
+                        <div class="title">
+                            <h3>Title #1</h3>
+                            <p>dolor sit amet consectetur adipisicing elit. Ullam numquam recusandae illum eaque perferendis sequi.</p>
+                        </div>
+                    </div>
+                    <div class="titles">
+                        <i class='bx bx-data'></i>
+                        <div class="title">
+                            <h3>Title #1</h3>
+                            <p>dolor sit amet consectetur adipisicing elit. Ullam numquam recusandae illum eaque perferendis sequi.</p>
+                        </div>
+                    </div>
+                    <div class="titles">
+                        <i class='bx bxs-share-alt'></i>
+                        <div class="title">
+                            <h3>Title #1</h3>
+                            <p>dolor sit amet consectetur adipisicing elit. Ullam numquam recusandae illum eaque perferendis sequi.</p>
+                        </div>
+                    </div>
+
+                </div>
